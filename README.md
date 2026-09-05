@@ -46,11 +46,5 @@ I'm Bishnu Prasad Bisoi, a developer passionate about technology, programming, a
 [![](https://komarev.com/ghpvc/?username=bisoiprasad5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bisoiprasad5/bisoiprasad5/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 <!-- ============================= -->
